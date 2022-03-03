@@ -14,7 +14,6 @@ return (
       color={COLORS.BLACK_PRIMARY}
       backgroundColor={COLORS.YELLOW}
       icon="github"
-      isLoading
     />
   </View>
   )
